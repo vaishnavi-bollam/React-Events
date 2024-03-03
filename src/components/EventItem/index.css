@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.eventImage {
+  height: 200px;
+  width: 300px;
+  cursor: pointer;
+}
+
+li {
+  padding-left: 0px;
+  margin-left: 0px;
+  list-style: none;
+}
